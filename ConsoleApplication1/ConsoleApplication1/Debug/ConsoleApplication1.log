@@ -1,0 +1,8 @@
+﻿  Algor.cpp
+d:\2 курс\мрзвис\mylab\lab1_2\consoleapplication1\consoleapplication1\algor.cpp(124): warning C4065: оператор switch содержит метку "default", но не содержит ни одной метки "case"
+d:\2 курс\мрзвис\mylab\lab1_2\consoleapplication1\consoleapplication1\algor.cpp(129): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  ConsoleApplication1.cpp
+d:\2 курс\мрзвис\mylab\lab1_2\consoleapplication1\consoleapplication1\consoleapplication1.cpp(43): warning C4018: <: несоответствие типов со знаком и без знака
+d:\2 курс\мрзвис\mylab\lab1_2\consoleapplication1\consoleapplication1\consoleapplication1.cpp(254): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  ConsoleApplication1.vcxproj -> D:\2 курс\МРЗвИС\mylab\lab1_2\ConsoleApplication1\Debug\ConsoleApplication1.exe
